@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">0</string>
+    <string name="app_name">BatteryWidget</string>
+
+</resources><!-- Copyright (c) 2011-2016 YA <ya.androidapp@gmail.com> All rights reserved. -->
